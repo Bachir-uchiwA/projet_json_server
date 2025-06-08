@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "phone": "775626363",
+      "country": "SN",
+      "id": "9c08"
+    },
+    {
+      "phone": "0612345678",
+      "country": "FR",
+      "id": "1981"
+    },
+    {
+      "phone": "4155551234",
+      "country": "US",
+      "id": "a3f2"
+    },
+    {
+      "phone": "4155551239",
+      "country": "US",
+      "id": "5c8b"
+    }
+  ],
+  "sessions": [],
+  "messages": [],
+  "chats": []
+}
