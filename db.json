@@ -21,6 +21,16 @@
       "id": "5c8b"
     }
   ],
+  "contacts": [
+    {
+      "phone": "771234567",
+      "country": "SN",
+      "firstName": "Amadou",
+      "lastName": "Diop",
+      "fullName": "Amadou Diop",
+      "id": "abc123"
+    }
+  ],
   "sessions": [],
   "messages": [],
   "chats": []
