@@ -33,6 +33,9 @@
   ],
   "sessions": [],
   "messages": [],
-  "chats": []
+  "chats": [],
+  "voice-messages": [
+    { "id": "vm123", "chatId": "abc123", "url": "/voice-messages/vm123.webm" }
+  ]
   
 }
